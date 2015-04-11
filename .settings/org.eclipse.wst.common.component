@@ -5,7 +5,7 @@
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="AssignWeb.war" deploy-path="/" handle="module:/resource/AssignWeb/AssignWeb">
+        <dependent-module archiveName="AssignWeb2.war" deploy-path="/" handle="module:/resource/AssignWeb2/AssignWeb2">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>

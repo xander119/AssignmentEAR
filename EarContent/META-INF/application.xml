@@ -6,8 +6,8 @@
   </module>
   <module>
     <web>
-      <web-uri>AssignWeb.war</web-uri>
-      <context-root>AssignWeb</context-root>
+      <web-uri>AssignWeb2.war</web-uri>
+      <context-root>AssignWeb2</context-root>
     </web>
   </module>
 </application>
